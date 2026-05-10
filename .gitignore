@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chart*.png
+career_audit_report.pdf
